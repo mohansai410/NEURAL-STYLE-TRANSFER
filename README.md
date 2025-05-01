@@ -20,3 +20,5 @@ A Normalization class ensures that input images are normalized according to the 
 
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/684ab735-f557-47bf-8967-e3d6b6af43b6)
